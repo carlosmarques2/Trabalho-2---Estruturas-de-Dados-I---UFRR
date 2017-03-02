@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1488387381 source:c:\users\carlos\documents\trabalho2ed\arquivo.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<locale.h>
+	"arquivo.h"
+
+1488387381 c:\users\carlos\documents\trabalho2ed\arquivo.h
+
+1488387425 source:c:\users\carlos\documents\trabalho2ed\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<locale.h>
+	"arquivo.h"
+
+1488303210 source:c:\users\carlos\documents\trabalho2ed\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1488303210 c:\users\carlos\documents\trabalho2ed\lista.h
+
